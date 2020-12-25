@@ -1,5 +1,3 @@
-
-
 #                                                                    frow 
 
 <img src="https://profile-counter.glitch.me/ytmcgamer/count.svg" />
@@ -8,10 +6,10 @@ Hello world! I'm frow, a Japanese programmer 🎌 with a focus on front and back
 
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/790702259251970048/791861081261473792/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66662f37312f37622f66663731376238396463.gif"/>
 
-### "白いサメ" ⭐️
+### "白いサメ" 
 
 - 🌎 Kyoto - Japan
-- 🧪 Synergy Owner
+- 🧪 Synergy CEO
 
 ---
 
@@ -32,8 +30,5 @@ Hello world! I'm frow, a Japanese programmer 🎌 with a focus on front and back
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fro0w&theme=gruvebox&show_icons=true" alt="Fro0w"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fro0w&theme=graywhite&layout=compact&card_width=450" alt="Fro0w"/></p>
-
-
-
 
 ---
